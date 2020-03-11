@@ -2,4 +2,8 @@ arquivo leiame
 agora vai ser a tag 1.0.1
 mais alteracao
 
+<<<<<<< HEAD
 esse será o segundo
+=======
+duas alterações, esse é o primeiro
+>>>>>>> 0cc92008d2585afebc5bab74b29287adf048f411
